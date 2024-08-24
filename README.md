@@ -17,7 +17,7 @@ Identify and describe at least three key milestones in the evolution of software
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirement analysis and gathering: This includes figuring out what the software must do and recording it.
 2. Design: This has to do with developing the architecture and design guidelines that will direct the process of development.
-3. Coding (implementation): This is the Writing of the code in accordance with the design specifications.
+3. Coding (implementation): This is the Writing of the code by the design specifications.
 4. Testing: Here, checking that the program functions as intended and addressing any issues is done.
 5. Deployment: This has to do with software release for use in a production setting.
 Maintenance: This is the adding of features, repairing bugs, and updating the program to meet changing needs.
@@ -33,11 +33,11 @@ For instance, creating a mobile application where user input is crucial to ongoi
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 1. Software Developer: Code is written, tested, and maintained by software developers. They are accountable for design specifications into functional software.
 2. Quality Assurance Engineer: A quality assurance (QA) engineer creates and runs test cases, finds bugs, and validates fixes to make sure the software satisfies quality standards.
-3. Project Manager: Keeps an eye on the project's advancement, assigns tasks to team members, sets deadlines, and makes sure the project stays on track, within budget, and within scope.
+3. Project Manager: Keeps an eye on the project's advancement, assigns tasks to team members, sets deadlines, and makes sure the project stays on track, within budget, and scope.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version 1. Control Systems (VCS) in the software development process. Give examples of each.
-Integrated Development Environments (IDEs): Code editors, debuggers, and build automation tools that provide a comprehensive environment for software development are just a few of the tools that make up integrated development environments, or IDEs for short. IntelliJ IDEA and Visual Studio are two examples.
+Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+1. Integrated Development Environments (IDEs): Code editors, debuggers, and build automation tools that provide a comprehensive environment for software development are just a few of the tools that make up integrated development environments or IDEs for short. IntelliJ IDEA and Visual Studio are two examples.
 2. Version Control Systems (VCS): Code tracking systems that facilitate collaboration amongst developers and preserve a history of changes. Git and Subversion (SVN) are two examples. They are essential for managing code versions, facilitating cross-team communication, and rolling back changes in the event of problems.
 
 
@@ -49,7 +49,7 @@ What are some common challenges faced by software engineers? Provide strategies 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 1. Unit testing: This is the process of testing separate software modules or features separately. It is essential for guaranteeing that every component of the software functions properly on its own.
-2. Integration testing: Confirms that various parts or systems function as intended together. It is crucial for identifying problems that occur when integrating various software components.
+2. Integration testing: Confirms that various parts or systems function as intended together. It is crucial to identify problems that occur when integrating various software components.
 3. System testing: Verifies that the system satisfies the requirements by testing the system as a whole. It is essential for confirming the program's overall functionality and performance.
 4. Acceptance Testing: Confirms that the program satisfies the needs of the business and is prepared for implementation. Ensuring software delivers value to end users is of utmost importance.
 
