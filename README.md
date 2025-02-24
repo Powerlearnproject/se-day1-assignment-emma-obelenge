@@ -5,11 +5,11 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is a disciplined approach to software design, development, testing, and upkeep. It entails using engineering concepts to create software that is dependable, effective, maintainable, and satisfies user needs. Software engineering is essential to the technology sector because it makes it possible to develop intricate, large-scale software systems in a predictable and repeatable way. For businesses to stay competitive and satisfy customer demands, it guarantees high-quality software products that can be maintained and scaled as needed. 
+Software engineering is a disciplined approach to software design, development, testing, and maintenance. It entails using engineering concepts to create dependable, effective, maintainable software that satisfies user needs. Software engineering is essential to the technology sector because it allows for the development of intricate, large-scale software systems in a predictable and repeatable way. It guarantees high-quality software products that can be maintained and scaled as needed, enabling businesses to stay competitive and satisfy customer demands. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 1. The Inception of Software Engineering in the 1950s: During this time, the first software programs were created and the term "software" was first used. It was during this time that software development emerged as a separate profession.
-2. NATO Software Engineering Conference: The formalization of software engineering as a discipline was greatly aide.d by the NATO Software Engineering Conference in 1968. It dealt with the "software crisis," in which software projects were frequently delivered with multiple flaws, over budget, and late.
+2. NATO Software Engineering Conference: The NATO Software Engineering Conference in 1968 greatly aided the formalization of software engineering as a discipline. It addressed the "software crisis," in which software projects were frequently delivered with multiple flaws, over budget, and late.
 3. Introduction of Object-Oriented Programming (OOP): The 1980s saw the advent of object-oriented programming, or OOP. A major advancement in software design and architecture was made possible by the adoption of OOP, which allowed for more modular, reusable, and maintainable code structures.
 
 List and briefly explain the phases of the Software Development Life Cycle.
